@@ -1,0 +1,36 @@
+# Executables - DO NOT UPLOAD MALWARE
+*.exe
+*.dll
+*.bin
+
+# Personal production files
+YouTube_Script_*.md
+On_Camera_vs_Visuals_Guide.md
+*_Shorts_Script_*.md
+
+# Internal tools and scripts
+Complete_Cleanup.ps1
+trellix.txt
+targets.txt
+
+# Backup folder
+backup/
+
+# Source code (optional - only if you don't want to share exploit code)
+# main.cpp
+# main_improved.cpp
+# ntdefs.h
+# uninstall.cpp
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Editor
+.vscode/
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
