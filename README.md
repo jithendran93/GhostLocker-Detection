@@ -269,12 +269,11 @@ The author and contributors are not responsible for misuse of this information.
 
 **100% Confidence | Zero False Positives | Production Validated**
 
-[![Watch on YouTube](https://img.shields.io/badge/Watch-YouTube-red?style=for-the-badge&logo=youtube)](https://youtube.com/watch?v=YOUR_VIDEO_ID)
-[![Download Queries](https://img.shields.io/badge/Download-KQL_Queries-blue?style=for-the-badge&logo=microsoftazure)](MDE_D@TheCyberScroll
 
 ---
 
 ⭐ **If these queries helped secure your environment, please star this repo!** ⭐
 
 </div>
+
 
