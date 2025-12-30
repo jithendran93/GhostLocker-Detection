@@ -259,7 +259,6 @@ The author and contributors are not responsible for misuse of this information.
 ## 📞 Contact & Support
 
 **Questions or Issues?**
-- 📧 Email: your.email@example.com
 - � YouTube: [@TheCyberScroll](https://youtube.com/@TheCyberScroll)
 - 🐛 GitHub Issues: [Report Here](https://github.com/jithendran93
 ---
@@ -278,3 +277,4 @@ The author and contributors are not responsible for misuse of this information.
 ⭐ **If these queries helped secure your environment, please star this repo!** ⭐
 
 </div>
+
