@@ -15,7 +15,7 @@
 This detection package was developed and validated by [TheCyberScroll](https://youtube.com/@TheCyberScroll) as part of comprehensive security research into EDR bypass techniques.
 
 ### 🚨 Watch the Full Technical Breakdown
-📺 **YouTube Video:** [GhostLocker: The Windows Feature That Can Disable Your EDR](https://youtube.com/@TheCyberScroll) *(Coming Soon)*
+📺 **YouTube Video:** [GhostLocker: The Windows Feature That Can Disable Your EDR](https://youtube.com/@TheCyberScroll) [https://youtu.be/ftuRUF4VR6s] 
 
 ---
 
@@ -275,5 +275,6 @@ The author and contributors are not responsible for misuse of this information.
 ⭐ **If these queries helped secure your environment, please star this repo!** ⭐
 
 </div>
+
 
 
